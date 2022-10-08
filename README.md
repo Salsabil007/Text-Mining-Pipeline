@@ -13,6 +13,8 @@ topics over time from title and abstract information for over 4,000 articles pub
 ![Screenshot from 2022-10-07 17-31-17](https://user-images.githubusercontent.com/19349857/194684874-9486641f-eca8-4b62-ad9b-59a4f8fec335.png)
 
 In the third part, I attempt to reproduce Pang et al. (2002)’s experiments with some variations of Unigram and bigram features.
+![Screenshot from 2022-10-07 22-02-45](https://user-images.githubusercontent.com/19349857/194684977-9e5f88ea-ea63-4696-b8d8-bd199157006d.png)
+
 
 In part 4, I examined Named Entity Recognition (NER) problems on two datasets:
 CoNLL2003—a dataset with about 20K annotated sentences from news articles. The entity types include person, location, organization, and miscellaneous. 
