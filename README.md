@@ -10,6 +10,7 @@ certain racial groups than others.
 
 Also, We use LDA topic models to analyze the Human-Computer Interaction (HCI) research community’s research 
 topics over time from title and abstract information for over 4,000 articles published in the CHI conference series (an annual ACM conference for Human-Computer Interaction research) between 1981-2014. The data is not collected by me.
+![Screenshot from 2022-10-07 17-31-17](https://user-images.githubusercontent.com/19349857/194684874-9486641f-eca8-4b62-ad9b-59a4f8fec335.png)
 
 In the third part, I attempt to reproduce Pang et al. (2002)’s experiments with some variations of Unigram and bigram features.
 
