@@ -5,7 +5,10 @@ book history collected from the ISI Web of Science database. We computed the ter
 compute the cosine similarity between the titles of the articles.
 
 In the second part, we attempt to examine racial biases of word embeddings using last names as proxies—some last names are more popular among 
-certain racial groups than others. Also, We use LDA topic models to analyze the Human-Computer Interaction (HCI) research community’s research 
+certain racial groups than others. 
+![Screenshot from 2022-10-07 17-30-51](https://user-images.githubusercontent.com/19349857/194684791-2e3798df-549b-4fb5-9484-de73cd98a790.png)
+
+Also, We use LDA topic models to analyze the Human-Computer Interaction (HCI) research community’s research 
 topics over time from title and abstract information for over 4,000 articles published in the CHI conference series (an annual ACM conference for Human-Computer Interaction research) between 1981-2014. The data is not collected by me.
 
 In the third part, I attempt to reproduce Pang et al. (2002)’s experiments with some variations of Unigram and bigram features.
